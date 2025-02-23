@@ -24,11 +24,10 @@ pip install selenium pydrive
 
 3. Run the scraper:
 
-python scraper.py
+web-scraper-automation.py
 
 
 4. Upload to Google Drive:
+web-scraper-automation.py
 
-python automation.py
-
-   git clone https://github.com/aayushkumbharkar/web-scraper-automation.git
+   
